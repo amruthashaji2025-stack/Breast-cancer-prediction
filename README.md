@@ -25,11 +25,11 @@ The dataset contains medical diagnostic features of tumors such as:
 ## 🤖 Models Used
 The following classification models were implemented and compared:
 
-- Logistic Regression ⭐ *(Best Performing Model)*  
+- Logistic Regression   
 - Decision Tree Classifier  
 - Random Forest Classifier  
 - Support Vector Machine (SVM)  
-- XGBoost Classifier  
+- XGBoost Classifier  ⭐ *(Best Performing Model)*
 
 ### ⚙️ Techniques Applied:
 - Cross-validation  
