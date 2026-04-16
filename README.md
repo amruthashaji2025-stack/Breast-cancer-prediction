@@ -48,7 +48,7 @@ Models were evaluated using classification metrics:
 - ROC-AUC Score  
 
 ### ✅ Key Outcome:
-- **Logistic Regression achieved the best performance** with high accuracy and balanced precision-recall.  
+- **XGBOOST achieved the best performance** with high accuracy and balanced precision-recall.  
 - The model effectively distinguishes between benign and malignant tumors.
 
 ---
